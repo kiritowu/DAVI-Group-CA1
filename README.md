@@ -25,3 +25,8 @@ This repo consists of the files that our group from DAAA/FT/1B/01 (2020) submitt
 - Nces.ed.gov. 2013. The Condition Of Education - Preprimary, Elementary, And Secondary Education - Elementary And Secondary Enrollment - Students With Disabilities - Indicator May (2020). [online] Available at: <https://nces.ed.gov/programs/coe/indicator_cgg.asp> [Accessed 26 November 2020].
 - Conversation.education.govt.nz. 2018. Tomorrows Schools Review 2018 Summary Of Education System In Massachusetts. [online] Available at: <https://conversation.education.govt.nz/assets/TSR/Tomorrows-Schools-Review-2018-Summary-of-education-system-in-Massachu....pdf> [Accessed 26 November 2020].
 - Anderson, A., 2017. Education In Alabama: A Privilege Or Right? What Alabama’S Tax Decisions Reveal About Historical And Intentional K‑12 Education Disenfranchisement, And The Unlikelihood Of Poor Alabamians Ever Receiving A Proper Education | N.Y.U. Review Of Law & Social Change. [online] N.Y.U. Review of Law & Social Change. Available at: <https://socialchangenyu.com/harbinger/education-in-alabama-a-privilege-or-right-what-alabamas-tax-decisions-reveal-about-historical-and-intentional-k%E2%80%9112-education-disenfranchisement-and-the-unlikelihood-of-poor-alabami/#II> [Accessed 19 December 2020].
+
+## Authors (in no particular order)
+- Zhao Wu (kiritowu)
+- Tien Cheng (Tien-Cheng)
+- Faqih (AqilAkmal)
