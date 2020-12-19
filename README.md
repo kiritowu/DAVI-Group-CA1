@@ -27,6 +27,6 @@ This repo consists of the files that our group from DAAA/FT/1B/01 (2020) submitt
 - Anderson, A., 2017. Education In Alabama: A Privilege Or Right? What Alabama’S Tax Decisions Reveal About Historical And Intentional K‑12 Education Disenfranchisement, And The Unlikelihood Of Poor Alabamians Ever Receiving A Proper Education | N.Y.U. Review Of Law & Social Change. [online] N.Y.U. Review of Law & Social Change. Available at: <https://socialchangenyu.com/harbinger/education-in-alabama-a-privilege-or-right-what-alabamas-tax-decisions-reveal-about-historical-and-intentional-k%E2%80%9112-education-disenfranchisement-and-the-unlikelihood-of-poor-alabami/#II> [Accessed 19 December 2020].
 
 ## Authors (in no particular order)
-- Zhao Wu (kiritowu)
-- Tien Cheng (Tien-Cheng)
-- Faqih (AqilAkmal)
+- Zhao Wu [kiritowu](https://github.com/kiritowu)
+- Tien Cheng [Tien-Cheng](https://github.com/Tien-Cheng)
+- Faqih [AqilAkmal](https://github.com/AqilAkmal)
