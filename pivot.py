@@ -1,16 +1,9 @@
 import pandas as pd
-file_path = "CA1\states_all_extended_cleaned.csv"
+file_path = "states_all_extended_cleaned.csv"
 
 original_df = pd.read_csv(file_path)
 primary_key, state, year, race, Grade_1, Grade_2, Grade_3, Grade_4, Grade_5, Grade_6, Grade_7, Grade_8, Grade_9, Grade_10, Grade_11, Grade_12, Kindergarden, Pre_Kindergarden, NAEP_Grade_4_Math, NAEP_Grade_4_Reading, NAEP_Grade_8_Math, NAEP_Grade_8_Reading,  = [
 ], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], []
-
-# races = {
-#     "WH" : {
-#         "Enrolment Columns" : []
-#     }
-# }
-# df_copy = original_df.copy()[:500]
 
 races = ['WH', 'BL', 'HI', 'AS', 'AM', 'HP', 'TR']
 for idx, row in original_df.iterrows():
