@@ -1,7 +1,7 @@
 # DAVI CA1 
 
 ## Introduction
-This repo consists of the files that our group from DAAA/FT/1B/01 (2020) submitted for our Data Visualisation assignmnt.
+This repo consists of the files that our group from DAAA/FT/1B/01 (2020) submitted for our Data Visualisation assignment.
 
 ## Files
 
