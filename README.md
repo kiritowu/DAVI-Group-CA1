@@ -4,18 +4,17 @@
 This repo consists of the files that our group from DAAA/FT/1B/01 (2020) submitted for our Data Visualisation assignment.
 
 ## Files
-
-    ### K12 Education in the US-1.twbx 
+- K12 Education in the US-1.twbx 
     - A Tableau workbook file which contains our data visualisations.
-    ### cleaning_flow.tfl
+- cleaning_flow.tfl
     - A Tableau Prep Builder Flow file which was used to perform initial data cleansing.
-    ### pivot.py
+- pivot.py
     - A Python script used to transform our data to a format more useful for data analysis using Tableau. Data manipulation was done using the Pandas library.
-    ### states_all_transformed.csv 
+- states_all_transformed.csv 
     - The transformed data produced by pivot.py, which was then later joined with the cleaned data in Tableau.
-    ### states_all_extended_cleaned.csv
+- states_all_extended_cleaned.csv
     - Cleaned non-transformed dataset.
-    ### nationalAverageNAEP.csv
+- nationalAverageNAEP.csv
     - Dataset containing the national average NAEP scores. This data was accidently removed from the original dataset, and hence was re-added in this csv file.
 
 ## Sources
