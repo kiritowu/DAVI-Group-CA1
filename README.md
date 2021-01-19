@@ -1,4 +1,4 @@
-# DAVI CA1 
+# K12 Education in the US Analysis with Tableau
 
 ## Introduction
 This repo consists of the files that our group from DAAA/FT/1B/01 (2020) submitted for our Data Visualisation assignment.
